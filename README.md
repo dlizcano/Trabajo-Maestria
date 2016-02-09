@@ -1,2 +1,2 @@
-# Trabajo-de-Grado-Maestr-a
+# TrabajoMaestria
 Base de datos para trabajo de grado Maestría
